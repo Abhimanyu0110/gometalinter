@@ -24,7 +24,7 @@ type Severity string
 
 // Linter message severity levels.
 const (
-	Warning Severity = "warning"
+	Warning Severity = "warning-abhi"
 	Error   Severity = "error"
 )
 
